@@ -1,0 +1,27 @@
+.pokelist {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    list-style-type: none;
+}
+
+.pokecard {
+    margin: 2em;
+    padding: 2em;
+    background-color: white;
+    border-radius: 1em;
+    cursor: pointer;
+    text-transform: capitalize;
+    box-shadow: 0 0 0.5em black;
+    transition: 0.5s ease;
+}
+
+.pokecard:hover {
+    box-shadow: 0 0 2.5em white;
+    transition: 0.5s ease;
+}
+
+@media screen and (max-width: 800px) {
+    .pokelist {
+        grid-template-columns: 1fr;
+    }
+}

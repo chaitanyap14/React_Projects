@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding: 1em;
+}
+
+.logo {
+    letter-spacing: 0.3em;
+}
+
+.search-bar {
+    font-size: 1.5em;
+    padding: 0.3em 1em;
+    border-radius: 0.5em;
+}
+
+@media screen and (max-width: 800px) {
+    .navbar {
+        flex-direction: column;
+    }
+
+    .logo {
+        margin: 0.5em;
+    }
+}
