@@ -1,3 +1,13 @@
+Live Link - https://pokedex-811zwtl6n-chaitanyap14.vercel.app/
+
+I used React to build this simple Pokedex app.
+My main goal was to learn React without using any tutorial at all and only follow the official docs.
+It was kind of a personal challenge in order to teach myself a faster way to learn. This is the first app I have ever built with React.
+
+In this app I have used and therefore learned React useState hook, a few component lifecycle methods i.e. componentDidMount and compunentDidUpdate and React router.
+
+It is a very simple app with minimal styling since styling wasn't my primary main goal with this app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
