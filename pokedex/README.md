@@ -1,4 +1,4 @@
-Live Link - https://pokedex-811zwtl6n-chaitanyap14.vercel.app/
+Live Link - https://pokedex-mu-indol.vercel.app/
 
 I used React to build this simple Pokedex app.
 My main goal was to learn React without using any tutorial at all and only follow the official docs.
